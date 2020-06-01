@@ -1,7 +1,7 @@
-#Sebs Zettelkasten
+##Sebs Zettelkasten
 
-## Mrakdown
+### Mrakdown
 
 Zettel are written in markdown
 
-### Using vanilla Vim (vim8)
+#### Using vanilla Vim (vim8)
